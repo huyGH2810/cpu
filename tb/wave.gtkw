@@ -1,0 +1,56 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Sat Jan  6 12:56:07 2024
+[*]
+[dumpfile] "/home/huyha/project/capstone1/tb/wave.fst"
+[dumpfile_mtime] "Sat Jan  6 12:54:27 2024"
+[dumpfile_size] 13327
+[savefile] "/home/huyha/project/capstone1/tb/wave.gtkw"
+[timestart] 0
+[size] 1536 793
+[pos] -9 -80
+*-6.000000 410 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] TOP.
+[treeopen] TOP.top.
+[treeopen] TOP.top.pipelined.
+[sst_width] 192
+[signals_width] 138
+[sst_expanded] 1
+[sst_vpaned_height] 225
+@28
+TOP.clk_i
+@22
+TOP.io_hex0_o[31:0]
+TOP.io_hex1_o[31:0]
+TOP.io_hex2_o[31:0]
+TOP.io_hex3_o[31:0]
+TOP.io_hex4_o[31:0]
+TOP.io_hex5_o[31:0]
+TOP.io_hex6_o[31:0]
+TOP.io_hex7_o[31:0]
+TOP.io_lcd_o[31:0]
+TOP.io_ledg_o[31:0]
+TOP.io_ledr_o[31:0]
+TOP.io_sw_i[31:0]
+@28
+TOP.rst_ni
+@22
+TOP.top.pipelined.IF_ID.instr_IF[31:0]
+TOP.top.pipelined.IF_ID.instr_ID[31:0]
+TOP.top.pipelined.EX_MEM.instr_EX[31:0]
+TOP.top.pipelined.EX_MEM.instr_MEM[31:0]
+@23
+TOP.top.pipelined.regfile.register[1][31:0]
+TOP.top.pipelined.regfile.register[2][31:0]
+TOP.top.pipelined.regfile.register[3][31:0]
+TOP.top.pipelined.regfile.register[4][31:0]
+TOP.top.pipelined.regfile.register[5][31:0]
+TOP.top.pipelined.regfile.register[6][31:0]
+TOP.top.pipelined.regfile.register[7][31:0]
+TOP.top.pipelined.regfile.register[8][31:0]
+TOP.top.pipelined.regfile.register[9][31:0]
+TOP.top.pipelined.regfile.register[10][31:0]
+TOP.top.pipelined.regfile.register[11][31:0]
+TOP.top.pipelined.regfile.register[12][31:0]
+[pattern_trace] 1
+[pattern_trace] 0
